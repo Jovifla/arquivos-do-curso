@@ -1,2 +1,2 @@
-projeto tocador de musica
 # arquivos-do-curso
+tocador de musica javascript
